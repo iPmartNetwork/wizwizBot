@@ -7,11 +7,7 @@
   </a>
 </p>
 
-<p align="center">
 
-	<a href="./README.md">
-	فارسی
-	</a>
 
 </p>
 
