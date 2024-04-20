@@ -18,7 +18,7 @@
 </p>
 
 
-<div align=right>
+<div align=left>
 
 
 
