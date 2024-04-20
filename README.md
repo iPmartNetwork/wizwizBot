@@ -8,11 +8,8 @@
 </p>
 
 <p align="center">
+
 	<a href="./README.md">
-	English
-	</a>
-	/
-	<a href="./README-fa.md">
 	فارسی
 	</a>
 
