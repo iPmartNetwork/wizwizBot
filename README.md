@@ -8,6 +8,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/wizwizBot/main/i
 ```
 ازتون آیدی عددی ادمین می پرسه میتونین از این ربات بگیرین
 
+
 https://t.me/getmyid_bot
 
 اگه میخواید چند تا ادمین داشته باشین باید به این صورت بفرستین
